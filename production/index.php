@@ -38,13 +38,17 @@
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="x_panel">
                 <div class="x_title">
-                  <h2>Home Page</h2>
+                  <h1><b>DASHBOARD</b></h1>
 
                   <div class="clearfix"></div>
                 </div>
                 <div class="x_content">
-                  <h1>Selamat Datang di Website Admin Tomas (<b><i>Tools Of Mahasiswa</i></b>)</h1>
+                  <h2>Selamat Datang di Website Admin Algomate </h2>
                 </div>
+                <div style="position: fixed; bottom: 0; right: 0;">
+                  <img src="images/dashboard.png" style="width: 400px;">
+                </div>
+
               </div>
             </div>
           </div>
