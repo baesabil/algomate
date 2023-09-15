@@ -1,2 +1,2 @@
-Template : Gentella
-Aplikasi Web Tomas (Tools Of Mahasiswa) - Pakuan
+
+Aplikasi Web ALGOMATE (admin & user)
